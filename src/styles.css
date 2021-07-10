@@ -1,5 +1,6 @@
 h1 {
   font-size: 30px;
+  padding: 3px;
   padding-top: 5%;
   background-color: rgb(255, 255, 255, 0.7);
 }
@@ -20,7 +21,6 @@ ul {
   background-size: cover;
   background-repeat: no-repeat;
   height: 150px;
-  margin: 0 auto;
   width: 100%;
 }
 .header .fa-instagram {
@@ -30,13 +30,7 @@ ul {
   left: 97%;
   top: 71%;
 }
-.header .fa-file-download {
-  font-size: 26px;
-  color: #9f3672;
-  position: relative;
-  left: 93%;
-  top: 70%;
-}
+
 .main-row {
   margin: 10px;
 }
